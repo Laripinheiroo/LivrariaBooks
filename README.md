@@ -9,7 +9,7 @@ A Livraria Books é um sistema de vendas de livros desenvolvido com Java Desktop
 ### Rodando a aplicação
 1 - Clone o repositório:
 ```bash
-  git clone https://github.com/seu-usuario/seu-repositorio.git
+  git clone https://github.com/Laripinheiroo/LivrariaBooks.git
   cd seu-repositorio
 ```
 
